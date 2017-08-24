@@ -1,0 +1,29 @@
+repository: http://vmware.github.io/hatchway
+
+output: web
+# this property is useful for conditional filtering of content that is separate from the PDF.
+
+topnav_title: Project Hatchway
+# this appears on the top navigation bar next to the home button
+
+site_title: Persistent Storage for Cloud-Native Applications
+# this appears in the html browser tab for the site title (seen mostly by search engines, not users)
+
+company_name: VMWare
+# this appears in the footer
+
+exclude:
+  - .idea/
+  - .gitignore
+# these are the files and directories that jekyll will exclude from the build
+
+highlighter: rouge
+feedback_disable: true
+
+
+markdown: kramdown
+kramdown:
+ input: GFM
+ auto_ids: true
+ hard_wrap: false
+ syntax_highlighter: rouge
