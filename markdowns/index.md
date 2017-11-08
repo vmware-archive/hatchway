@@ -39,5 +39,5 @@ Storage policy-based provisioning of persistent volumes enables applications to 
 
 
 ## Contact us
-* <containers@vmware.com>
+* <hatchway@vmware.com>
 * VMware Code Slack ([#docker](https://vmwarecode.slack.com/messages/docker/) [#kubernetes](https://vmwarecode.slack.com/messages/kubernetes/))
