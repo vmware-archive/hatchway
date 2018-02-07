@@ -1,4 +1,4 @@
-prismjs@1.9.0
+prismjs@1.11.0
 MIT
 MIT LICENSE
 
@@ -76,7 +76,7 @@ MIT
 MIT
 MIT
 
-zone.js@0.8.18
+zone.js@0.8.20
 MIT
 The MIT License
 
