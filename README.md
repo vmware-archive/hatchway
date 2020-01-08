@@ -1,3 +1,5 @@
+# VMware has ended active development of this project, this repository will no longer be updated
+
 # Project Hatchway
 
 Customers want to take advantage of container technology for running stateful, data intensive applications such as databases and modern cloud native applications. One of the significant barriers they face is the lack of out-of-the box persistent storage solution in the container eco-system since it requires building a robust, elastic, and programmable storage infrastructure with same level of security, data integrity, high availability, and storage services that are expected in a modern IT infrastructure.
